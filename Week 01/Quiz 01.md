@@ -91,7 +91,7 @@ Sensitivity = P(+|D) = 0.75
 Specificity = P(-|D') = 0.52  
 P(D) = 0.30  
 P(+|D') = 1 - P(-|D') = 1 - 0.52 = 0.48  
-P(C') = 1 - P(D) = 1 - 0.3 = 0.7  
+P(D') = 1 - P(D) = 1 - 0.3 = 0.7  
 P(+|D)\*P(D) = 0.225  
 P(+|D')\*P(D') = 0.336  
 By Bayes Theorem,  
