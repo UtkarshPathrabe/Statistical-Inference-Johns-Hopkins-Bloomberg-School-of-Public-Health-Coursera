@@ -16,7 +16,7 @@ Question 01
 What is the variance of the distribution of the average an IID draw of n observations from a population with mean $\mu$ and variance $\sigma^2$.  
 
 ### Answer  
-$\frac{\sigma^2}{n}$  
+$\sigma^2$/n  
 
 Question 02
 -----------  

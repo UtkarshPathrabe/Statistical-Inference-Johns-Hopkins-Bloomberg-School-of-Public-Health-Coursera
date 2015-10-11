@@ -25,7 +25,7 @@ observations from a population with mean *μ* and variance
 
 ### Answer
 
-$\\frac{\\sigma^2}{n}$
+*σ*<sup>2</sup>/n
 
 Question 02
 -----------
