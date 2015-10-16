@@ -204,7 +204,7 @@ placebo group. Does the change in BMI over the four week period appear
 to differ between the treated and placebo groups? Assuming normality of
 the underlying data and a common population variance, calculate the
 relevant `90%` t confidence interval. Subtract in the order of (Treated
-- Placebo) with the smaller (more negative) number first.
+Placebo) with the smaller (more negative) number first.
 
 ### Answer
 
