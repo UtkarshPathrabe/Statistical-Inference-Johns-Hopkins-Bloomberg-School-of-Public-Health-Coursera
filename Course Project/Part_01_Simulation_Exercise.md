@@ -1,8 +1,3 @@
-Statistical Inference Project Part 1 - A Simulation Exercise
-============================================================
-
-#### Author: <i>Utkarsh Ashok Pathrabe</i>
-
 Overview:
 ---------
 

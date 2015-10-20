@@ -1,7 +1,7 @@
 ---
 title: "Statistical Inference Project Part 1 - A Simulation Exercise"
 author: "Utkarsh Ashok Pathrabe"
-output: pdf_document
+output: md_document
 ---
 
 Overview:  
